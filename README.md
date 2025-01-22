@@ -62,7 +62,6 @@ python openaiChat.py
 
 ```
 .
-├── __pycache__/
 ├── constants.py
 ├── data.txt
 ├── openaiChat.py
