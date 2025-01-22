@@ -1,0 +1,2 @@
+1. It is sample project to play with generative AI using OpenAI model.
+2. It can embed your data and save locally in csv format.
